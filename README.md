@@ -1,15 +1,15 @@
 ## *stanCode* Projects
-Hello there!
-This repository holds my programming project done during the period of stanCode SC101 course.
-
+Hello there!\
+This repository holds my programming project done during the period of stanCode SC101 course.\
+\
 Watch my *[DEMO VEDIOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
-
+\
 ##Project Source Codes:
-*[Hangman Game](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/hangman_game/hangman.py)
- *python semantics & syntax
-*[Weather Master](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/Weather_Master/weather_master.py)
- *python semantics & syntax
-*[MyPhotoshop](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/my_photoshop/best_photoshop_award.py)
+*[Hangman Game](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/hangman_game/hangman.py)\
+ *python semantics & syntax\
+*[Weather Master](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/Weather_Master/weather_master.py)\
+ *python semantics & syntax\
+*[MyPhotoshop](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/my_photoshop/best_photoshop_award.py)\
  *image processing
 *[Pedestrain Removing Application](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/my_photoshop/stanCodoshop.py)
  *image processing
