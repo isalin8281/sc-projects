@@ -6,7 +6,7 @@ Watch my *[DEMO VEDIOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 \
 ## Project Source Codes:
 * [Hangman Game](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/hangman_game/hangman.py)
- * python semantics & syntax\
+  * python semantics & syntax\
 *[Weather Master](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/Weather_Master/weather_master.py)\
  *python semantics & syntax\
 *[MyPhotoshop](https://github.com/isalin8281/sc-projects/blob/main/stanCode_Projeccts/my_photoshop/best_photoshop_award.py)\
